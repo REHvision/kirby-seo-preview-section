@@ -12,7 +12,9 @@ Configurable & interactive SEO preview section for the Kirby 3 Panel.
 
 Choose one of the following installation methods:
 
-**Manually** [Download](https://github.com/REHvision/kirby-seo-preview-section/archive/master.zip) and copy this repository to `/site/plugins/seo-preview-section`.
+**Manually**
+
+[Download](https://github.com/REHvision/kirby-seo-preview-section/archive/master.zip) and copy this repository to `/site/plugins/seo-preview-section`.
 
 **Git submodule**
 
