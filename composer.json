@@ -1,5 +1,5 @@
 {
-    "name": "reh/seo-preview-section",
+    "name": "reh/kirby-seo-preview-section",
     "description": "Configurable & interactive SEO preview section for the Kirby 3 Panel.",
     "type": "kirby-plugin",
     "license": "MIT",

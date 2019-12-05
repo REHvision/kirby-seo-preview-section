@@ -25,7 +25,7 @@ git submodule add https://github.com/REHvision/kirby-seo-preview-section.git sit
 **Composer**
 
 ```shell
-composer require reh/seo-preview-section
+composer require reh/kirby-seo-preview-section
 ```
 
 ## Setup
