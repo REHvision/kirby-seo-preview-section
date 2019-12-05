@@ -73,7 +73,13 @@ columns:
 
 _TODO: Document the options and APIs that this plugin offers_
 
-## Development
+## Status & Development
+
+**BEWARE: This is a first public version!**
+
+I'm happy about any feedback (bugs, optimization, suggestions or general feedback)!
+
+**Although this plugin should not break anything, please always test it in your dev environment before using it live !!!**
 
 _TODO: Add instructions on how to help working on the plugin (e.g. npm setup, Composer dev dependencies, etc.)_
 
