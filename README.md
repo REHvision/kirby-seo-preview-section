@@ -4,7 +4,7 @@
 
 Configurable & interactive SEO preview section for the Panel in Kirby 3+.
 
-![banner](seo-preview-section.gif)
+![seo-preview-section](https://user-images.githubusercontent.com/2584674/70377486-386e9400-1915-11ea-8542-69ef67e28412.gif)
 
 --------------------------------------------------------------------------------
 
